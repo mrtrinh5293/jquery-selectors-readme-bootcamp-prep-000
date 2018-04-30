@@ -8,5 +8,5 @@ function lastImageSelector(){
 }
 
 function ninjaBabySelector(){
-  return $('img[alt="cat sleeping"]')
+  return $('img[id = .baby-ninja]')
 }
