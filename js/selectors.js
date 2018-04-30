@@ -8,5 +8,5 @@ function lastImageSelector(){
 }
 
 function ninjaBabySelector(){
-  return $('.baby-ninja').append('src =')
+  return $('.baby-ninja').append('src ="https://s3.amazonaws.com/after-school-assets/baby-ninja.gif"')
 }
